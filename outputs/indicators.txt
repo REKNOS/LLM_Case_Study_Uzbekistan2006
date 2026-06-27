@@ -1,0 +1,7 @@
+{
+"Life_Expectancy":"72.5",
+"GDP_Per_Capita":"2668.1",
+"Literacy_Rate":"99.2",
+"HDI":"0.756",
+"Gross_Enrolment_Index":0.760,
+"Women_Empowerment_Index":""}

@@ -1,0 +1,4 @@
+Model,Output_Length
+llama3.2,1500
+qwen2.5:3b,2745
+phi3:mini,2245

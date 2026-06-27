@@ -1,0 +1,9 @@
+{
+"education":8,
+"health":10,
+"inequality":6,
+"Economy":7,
+"gender":5,
+"climate":2,
+"employment":4
+}
